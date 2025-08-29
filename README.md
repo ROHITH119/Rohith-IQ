@@ -3,7 +3,7 @@ RohithIQ
 RohithIQ is an AI-powered Q&A web app built with React + Vite and styled with Tailwind CSS.
 It allows users to ask any question and receive AI-generated answers in a clean, chat-like interface.
 
-🔗 Live Demo: RohithIQ on Vercel
+https://inspiring-pudding-181259.netlify.app/ : RohithIQ on Netlify
 
 ✨ Features
 
